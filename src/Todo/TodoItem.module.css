@@ -1,0 +1,26 @@
+
+.flexItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fefefe;
+  padding: 0.5rem 1rem;
+  border: 1px solid #fefefe;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+.lightColor {
+    background-color: #fefefe;
+}
+
+.input {
+  margin-right: 1rem;
+}
+
+.btn {
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+  
